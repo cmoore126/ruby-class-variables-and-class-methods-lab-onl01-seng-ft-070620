@@ -11,6 +11,17 @@ class Song
     @@song_count
   end
 
+ def artist=(artist)
+    @artist = artist
+  end
+
+def artist 
+  @artist 
+end 
+end 
+
+
+
   def name=(name)
     @name = name
 
