@@ -18,11 +18,10 @@ class Song
 def artist
   @artist
 end
-end 
+end
 
 
-
-  def name=(name)
+def name=(name)
     @name = name
 
 end
