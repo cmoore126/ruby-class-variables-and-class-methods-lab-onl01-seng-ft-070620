@@ -17,3 +17,4 @@ class Song
   def name
     @name
   end
+end
